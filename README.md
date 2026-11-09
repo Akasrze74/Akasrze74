@@ -147,16 +147,3 @@ related to data, business, and technology.
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Akasrze74&show_icons=true&theme=default&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akasrze74&layout=compact&theme=default&hide_border=true"
-    height="160"
-  />
-</p>
