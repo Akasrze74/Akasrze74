@@ -40,6 +40,7 @@ create meaningful user experiences.
 - Business Process Analysis
 - Data Visualization & Reporting
 - Mobile & Web Development
+- Spatial Analysis
 - Software Quality Assurance
 - Digital Transformation
 
