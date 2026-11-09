@@ -111,28 +111,6 @@ create meaningful user experiences.
 
 ---
 
-## 📜 Certifications
-
-- DSF 41 - UIUX Design - Dibimbing (2026)
-- Graphic Designer (Figma) – Special Skill Indonesia (2026)
-- Introduction to Data Analytics – RevoU (2026)
-- AWS Academy Cloud Foundations - Training Badge (2026)
-- Data - AI Agent for Data Analysis - Hacktiv8 Indonesia (2026)
-- Excel & Google Sheet - Karirnex (2026)
-- Business Intelligence Analyst – BNSP (2025)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Data Analytics
-- Power BI & Business Intelligence
-- Data-Driven Decision Making
-- Business and Technology Integration
-- Software Development
-
----
-
 ## 🤝 Let's Connect
 
 I am open to learning opportunities,
